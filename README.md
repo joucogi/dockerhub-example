@@ -1,2 +1,2 @@
 # dockerhub-example
-Example docker hub integration
+Example docker hub integration.
